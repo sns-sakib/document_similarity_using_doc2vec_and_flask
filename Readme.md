@@ -1,7 +1,7 @@
 # Text Similarity from custom dataset
-Getting textual similarities between invoice text files from a Doc2Vec model trained on the Japanese invoice dataset.
+Getting textual similarities between invoice text files from a Doc2Vec model trained on the invoice dataset.
 
-- **Input**: Japanese invoice files in txt format.
+- **Input**:  invoice files in txt format.
 - **Output**: SImilarities between the documents.
 
 
